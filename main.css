@@ -1,0 +1,36 @@
+.demo{
+  width: 299.6px;
+  height: 622.3px;
+  overflow: hidden;
+  transform-origin: 0px 0px 0px;
+  margin: 50px auto;
+}
+
+.demo-wrapper{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 889px;
+  background: none;
+  transform-origin: 0px 0px 0px;
+  transform: scale(0.7);
+}
+
+img{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+iframe{
+  position: absolute;
+  top: 107px;
+  left: 24.5px;
+  width: 381px;
+  height: 673px;
+  border: 0px;
+  background-color: black;
+}
